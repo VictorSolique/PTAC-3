@@ -20,6 +20,7 @@ export default function Menu(){
                     <div class="navbar-nav">
                         <Link href="/" className="nav-link active">Home</Link>
                         <Link href="/registro" className="nav-link">Registrar</Link>
+                        <Link href="/localizacao" className="nav-link">Localização</Link>
                     </div>
                     </div>
                 </div>
