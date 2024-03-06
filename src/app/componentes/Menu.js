@@ -10,7 +10,7 @@ export default function Menu(){
                     <a class="navbar-brand" href="#">
                         <Link href="/"><Image 
                             width={100}
-                            height={100}
+                            height={75}
                             src={"https://www.ifms.edu.br/marcaifms.png"} /></Link>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
